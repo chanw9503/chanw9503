@@ -20,4 +20,9 @@
   <img src="https://img.shields.io/badge/toast ui calendar-FF6618?style=for-the-badge&logo=toast ui calendar&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanw9503&show_icons=true&theme=radical)
+<br/>
+<br/>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanw9503&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</div>
